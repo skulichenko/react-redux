@@ -30,9 +30,8 @@ const TabsContainer = React.createClass({
         if(this.props.category == null) {
             return [];
         }
-        var a = this.getSubCategory();
-       
-        return a.tabs;
+        
+        return this.getSubCategory().tabs;
     },
 
     addTab: function() {
