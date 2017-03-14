@@ -1,0 +1,99 @@
+{
+"categories": [
+    {
+      "id": 1,
+      "name": "VIDEO SERVICIES",
+      "subCategories": [
+        {
+          "id": 1,
+          "name": "Digital",
+          "tabs": [ 
+            {
+              "id": 1,
+              "name": "Summary",
+              "content": "OLOLOL"
+            },
+            {
+              "id": 2,
+              "name": "Summary 2",
+              "content": "sdfdsfdsfasd sdaf"
+            },
+            {
+              "id": 3,
+              "name": "Summary 3",
+              "content": "sdfdsfdsfasd sdaf"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Linear",
+          "tabs": [ 
+            {
+              "id": 1,
+              "name": "RR",
+              "content": "OweLOLOL"
+            },
+            {
+              "id": 2,
+              "name": "RTT 2",
+              "content": "sdfdsfdsfasd sdaf"
+            },
+            {
+              "id": 3,
+              "name": "Tcc 3",
+              "content": "sdfdsfdsfasd sdaf"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Recording",
+          "tabs": []
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "AUDIO SERVICIES",
+      "subCategories": [
+        {
+          "id": 1,
+          "name": "Digital 1",
+          "tabs": []
+        },
+        {
+          "id": 2,
+          "name": "Linear 1",
+          "tabs": []
+        },
+        {
+          "id": 3,
+          "name": "Recording 1",
+          "tabs": []
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "BROADBAND SERVICIES",
+      "subCategories": [
+        {
+          "id": 1,
+          "name": "Digital 2",
+          "tabs": []
+        },
+        {
+          "id": 2,
+          "name": "Linear 2",
+          "tabs": []
+        },
+        {
+          "id": 3,
+          "name": "Recording 2",
+          "tabs": []
+        }
+      ]
+    }
+  ]
+}
